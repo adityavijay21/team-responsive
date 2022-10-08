@@ -5,7 +5,7 @@ This project is built on HTML, CSS, and JavaScript technology, and you are free 
 
 ## Screenshots
 
-![Web Screenshot](/assets1/img/about.png)
+![Web Screenshot](/assets/img/about.png)
 
 
 ## Acknowledgements
